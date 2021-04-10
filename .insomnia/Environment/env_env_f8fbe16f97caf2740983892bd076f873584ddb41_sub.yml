@@ -1,0 +1,14 @@
+_id: env_env_f8fbe16f97caf2740983892bd076f873584ddb41_sub
+type: Environment
+parentId: env_f8fbe16f97caf2740983892bd076f873584ddb41
+modified: 1616251357324
+created: 1616251357324
+name: OpenAPI env
+data:
+  scheme: http
+  base_path: /api/v1
+  host: backup-organizer.localhost
+dataPropertyOrder: null
+color: null
+isPrivate: false
+metaSortKey: 1616251357324

@@ -1,0 +1,12 @@
+_id: wrk_5e31e57f5f014b068cf29bdebe5b5ba7
+type: Workspace
+parentId: null
+modified: 1616251357338
+created: 1616248433143
+name: Groupomania 1.0.0
+description: Le projet consiste à construire un réseau social interne pour les
+  employés de Groupomania. Le but de cet outil est de faciliter les interactions
+  entre collègues. Le département RH de Groupomania a laissé libre cours à son
+  imagination pour les fonctionnalités du réseau et a imaginé plusieurs briques
+  pour favoriser les échanges entre collègues.
+scope: spec
