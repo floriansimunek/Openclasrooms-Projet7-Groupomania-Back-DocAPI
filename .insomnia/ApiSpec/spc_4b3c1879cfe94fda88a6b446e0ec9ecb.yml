@@ -1,7 +1,7 @@
 _id: spc_4b3c1879cfe94fda88a6b446e0ec9ecb
 type: ApiSpec
 parentId: wrk_5e31e57f5f014b068cf29bdebe5b5ba7
-modified: 1617700460302
+modified: 1618326254820
 created: 1616248433150
 fileName: Groupomania
 contents: >-
@@ -1812,9 +1812,6 @@ contents: >-
             "id": {
               "type": "integer",
               "format": "int64",
-            },
-            "firstname": {
-              "type": "string",
             },
             "username": {
               "type": "string",
